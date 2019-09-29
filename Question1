@@ -14,3 +14,14 @@ Print  to stdout.
 Sample Output
 
 Hello, World!
+
+
+Solution by smilegupta:- 
+#include <iostream>
+#include <cstdio>
+using namespace std;
+
+int main() {
+    printf("Hello, World!");
+    return 0;
+}
